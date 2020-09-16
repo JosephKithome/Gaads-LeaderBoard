@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GADS-LeaderBoard</string>
+    <string name="leaderBoard"> LEADERBOARD </string>
+    <string name="project_submission">Project Submission</string>
+</resources>
